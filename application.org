@@ -1,0 +1,43 @@
+#    -*- mode: org -*-
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:1
+#+REVEAL_MARGIN: 0.2
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 999
+#+REVEAL_EXTRA_CSS: ./application.css
+
+#+TITLE: Application to the SSI Fellowship Programme 2022
+#+AUTHOR: Sadie Louise Bartholomew
+#+EMAIL: sadie.bartholomew@ncas.ac.uk
+
+* Slide 1 (title TODO)
+Text here TODO.
+
+
+* Slide 2 (title TODO)
+Text here TODO.
+
+
+* Slide 3 (title TODO)
+Text here TODO.
+
+
+* Slide 4 (title TODO)
+Text here TODO.
+
+
+* Slide 5 (title TODO)
+Text here TODO.
+
+
+* Slide 6 (title TODO)
+Text here TODO.
+
+
+* Slide 7 (title TODO)
+Text here TODO.
