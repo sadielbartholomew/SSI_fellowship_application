@@ -1,40 +1,131 @@
 #+REVEAL_ROOT: ./reveal.js
 #+REVEAL_EXTRA_CSS: ./css/application.css
 
-#+REVEAL_THEME: ./css/swiss.css
+#+REVEAL_THEME: white
+# ./css/swiss.css
 #+REVEAL_TRANS: concave
 
-#+OPTIONS: toc:0
-#+OPTIONS: reveal_width:1400 reveal_height:1000
+#+REVEAL_TITLE_SLIDE:
 
+#+OPTIONS: toc:0
+#+OPTIONS: reveal_slide_number:nil
+#+OPTIONS: timestamp:nil
+#+OPTIONS: num:nil
 
 #+TITLE: Application to the SSI Fellowship Programme 2022
 #+AUTHOR: Sadie Bartholomew
 #+EMAIL: sadie.bartholomew@ncas.ac.uk
 
-* Slide 1 (title TODO)
-Text here TODO.
+* Sadie Bartholomew
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #B9B9C6 15%, #ffffff 100%)
+   :END:
+
+#+ATTR_HTML: :height 40%, :width 40%
+[[./media/photos/headshot.jpg]]
 
 
-* Slide 2 (title TODO)
-Text here TODO.
+*Application to the Software Sustainability Institute Fellowship Programme 2022*
 
 
-* Slide 3 (title TODO)
-Text here TODO.
+* Who am I?
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #78A8E2 15%, #ffffff 100%)
+   :END:
+
+/In one sentence:/
+
+Educated in physics, for the past four years I have been working as an effective
+RSE in the field of climate and weather, under two different roles,
+contributing widely to open-source software.
 
 
-* Slide 4 (title TODO)
-Text here TODO.
+*** Before my career
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #78A8E2 15%, #ffffff 100%)
+   :END:
+
+#+ATTR_HTML: :height 35%, :width 35% :align center
+[[./media/logos/Durham_University_Logo.png]]
+
+I completed an _Integrated Masters in Physics_ at _Durham University_. There:
+
+#+REVEAL_HTML: <div style="font-size: 0.8em">
+- I first learnt to program (=Hello World!=), in the language I still use above all
+  today, Python;
+- a final-year project in computational particle physics using C++ activated
+  my interest in software for research, openness of research artefacts and HPC.
+ #+REVEAL_HTML: </div>
 
 
-* Slide 5 (title TODO)
-Text here TODO.
+*** My first software role
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #78A8E2 15%, #ffffff 100%)
+   :END:
+
+#+ATTR_HTML: :height 20%, :width 20% :align center
+[[./media/logos/Met_Office_new_logo.png]]
+
+My first step onto the RSE career ladder was to join the
+_Met Office_ as a _Scientific Software Engineer_.
+
+I spent two years in that role contributing to open-source Python-based
+infrastructure libraries used to configure and run models for both
+operational forecasting and research.
 
 
-* Slide 6 (title TODO)
-Text here TODO.
+*** My next, and present, software role
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #78A8E2 15%, #ffffff 100%)
+   :END:
+
+For approaching two years I have been working as a _Computational Scientist_
+for the Computational Modelling Services (CMS)
+group within the _National Centre for Atmospheric Science (NCAS)_,
+based at the Department of Meteorology at _University of Reading_.
+
+#+REVEAL_HTML: <div class="column" style="float:left; width:60%">
+#+ATTR_HTML: :height 100%, :width 100%
+[[./media/logos/NCAS_national_centre_logo_transparent.png]]
+ #+REVEAL_HTML: </div>
+
+ #+REVEAL_HTML: <div class="column" style="float:right; width:40%">
+#+ATTR_HTML: :height 100%, :width 100%
+[[./media/logos/University_of_Reading_logo.svg]]
+ #+REVEAL_HTML: </div>
 
 
-* Slide 7 (title TODO)
-Text here TODO.
+*** Furthermore
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #78A8E2 15%, #ffffff 100%)
+   :END:
+
+I enjoy contributing to open-source software in a personal capacity,
+for example:
+
+#+REVEAL_HTML: <div class="column" style="float:left; width:60%; font-size: 0.8em">
+- as a [[https://joss.theoj.org/papers/reviewed_by/@sadielbartholomew][volunteer reviewer]] for the Journal of Open Source Software (JOSS);
+- with annual completion of the Hacktoberfest initiative (2018+);
+- developing and publicising personal coding projects, e.g.
+  [[https://github.com/sadielbartholomew/creative-matplotlib][=creative-matplotlib=]].
+ #+REVEAL_HTML: </div>
+
+
+ #+REVEAL_HTML: <div class="column" style="float:right; width:40%">
+#+BEGIN_EXPORT html
+<img src="./media/videos/rotation_of_fractioned_circles_uniform.gif" /> 
+#+END_EXPORT
+ #+REVEAL_HTML: </div>
+
+* What do I do in my current role?
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
+   :END:
+TODO.
+
+
+* What are my plans for the fellowship?
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
+   :END:
+TODO.
