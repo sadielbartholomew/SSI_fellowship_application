@@ -89,7 +89,7 @@ based at the Department of Meteorology at _University of Reading_.
 [[./media/logos/NCAS_national_centre_logo_transparent.png]]
  #+REVEAL_HTML: </div>
 
- #+REVEAL_HTML: <div class="column" style="float:right; width:40%">
+#+REVEAL_HTML: <div class="column" style="float:right; width:40%">
 #+ATTR_HTML: :height 100%, :width 100%
 [[./media/logos/University_of_Reading_logo.svg]]
  #+REVEAL_HTML: </div>
@@ -100,22 +100,22 @@ based at the Department of Meteorology at _University of Reading_.
    :reveal_background: linear-gradient(to bottom, #78A8E2 15%, #ffffff 100%)
    :END:
 
-I enjoy contributing to open-source software in a personal capacity,
+I enjoy _contributing to open-source software in a personal capacity_,
 for example:
 
 #+REVEAL_HTML: <div class="column" style="float:left; width:60%; font-size: 0.8em">
-- as a [[https://joss.theoj.org/papers/reviewed_by/@sadielbartholomew][volunteer reviewer]] for the Journal of Open Source Software (JOSS);
+- as a volunteer reviewer for the Journal of Open Source Software;
 - with annual completion of the Hacktoberfest initiative (2018+);
-- developing and publicising personal coding projects, e.g.
-  [[https://github.com/sadielbartholomew/creative-matplotlib][=creative-matplotlib=]].
+- by developing and publicising personal coding projects such
+  as =creative-matplotlib= and =ocean-chroma-theme=.
  #+REVEAL_HTML: </div>
 
 
- #+REVEAL_HTML: <div class="column" style="float:right; width:40%">
+#+REVEAL_HTML: <div class="column" style="float:right; width:40%">
 #+BEGIN_EXPORT html
 <img src="./media/videos/rotation_of_fractioned_circles_uniform.gif" /> 
 #+END_EXPORT
- #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 * What do I do in my current role?
    :PROPERTIES:
@@ -129,3 +129,43 @@ TODO.
    :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
    :END:
 TODO.
+
+
+* Thank you for your consideration
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #B9B9C6 15%, #ffffff 100%)
+   :END:
+
+#+REVEAL_HTML: <br>
+
+-----
+
+#+REVEAL_HTML: <div class="column" style="font-size: 0.6em">
+These slides were written in =org-mode= for =Emacs= and exported to
+=reveal.js= using the =org-reveal= tool.
+
+The corresponding code and content is all contained in
+a private GitHub repository which I will make public and share if
+I am selected for a fellowship (I could even use it as part of a feature on
+presentation prepartion  in the "To be an RSE" videos).
+#+REVEAL_HTML: </div>
+
+-----
+
+
+*** To learn more about me, please see my:
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #B9B9C6 15%, #ffffff 100%)
+   :END:
+
+#+REVEAL_HTML: <div class="column" style="font-size: 0.8em">
+- GitHub, user *@sadielbartholomew*
+- ORCID, iD *0000-0002-6180-3603*
+- ResearchGate, handle *Sadie-Bartholomew*
+- personal website, [[https://sadielbartholomew.github.io/][sadielbartholomew.github.io/]]
+- repository with my CV, talks archive, dotfiles, etc.,
+  [[https://github.com/sadielbartholomew/sadielbartholomew][github.com/sadielbartholomew/sadielbartholomew]]
+- SSI profile, [[https://www.software.ac.uk/sadie-bartholomew][www.software.ac.uk/sadie-bartholomew]]
+#+REVEAL_HTML: </div>
+
+# END OF PRESENTATION
