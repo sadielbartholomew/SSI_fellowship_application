@@ -35,10 +35,15 @@
 
 /In one sentence:/
 
-Educated in physics, for the past four years I have been working as an effective
-RSE in the field of climate and weather, under two different roles,
+Educated in physics, for the past four years I have been working as *an effective
+RSE in the field of climate and weather*, under two different roles,
 contributing widely to open-source software.
 
+#+REVEAL_HTML: <div style="position: relative; top: -170px; z-index:-1;">
+#+ATTR_HTML: :height 50%, :width 50%
+[[./media/clipart/sun_rain_clipart.png]]
+ #+REVEAL_HTML: </div>
+ 
 
 *** Before my career
    :PROPERTIES:
@@ -90,7 +95,7 @@ based at the Department of Meteorology at _University of Reading_.
  #+REVEAL_HTML: </div>
 
 #+REVEAL_HTML: <div class="column" style="float:right; width:40%">
-#+ATTR_HTML: :height 100%, :width 100%
+#+ATTR_HTML: :height 90%, :width 90%
 [[./media/logos/University_of_Reading_logo.svg]]
  #+REVEAL_HTML: </div>
 
