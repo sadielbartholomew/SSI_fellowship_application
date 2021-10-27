@@ -39,7 +39,7 @@ Educated in physics, for the past four years I have been working as *an effectiv
 RSE in the field of climate and weather*, under two different roles,
 contributing widely to open-source software.
 
-#+REVEAL_HTML: <div style="position: relative; top: -170px; z-index:-1;">
+#+REVEAL_HTML: <div style="position: relative; top: -190px; z-index:-1;">
 #+ATTR_HTML: :height 50%, :width 50%
 [[./media/clipart/sun_rain_clipart.png]]
  #+REVEAL_HTML: </div>
@@ -112,7 +112,7 @@ for example:
 - as a volunteer reviewer for the Journal of Open Source Software;
 - with annual completion of the Hacktoberfest initiative (2018+);
 - by developing and publicising personal coding projects such
-  as =creative-matplotlib= and =ocean-chroma-theme=.
+  as =creative-matplotlib=.
  #+REVEAL_HTML: </div>
 
 
@@ -122,14 +122,167 @@ for example:
 #+END_EXPORT
 #+REVEAL_HTML: </div>
 
-* What do I do in my current role?
+
+*** 
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #78A8E2 15%, #ffffff 100%)
+   :END:
+
+#+REVEAL_HTML: <div class="column" style="float:left; width:50%">
+#+ATTR_HTML: :height 150%, :width 150%
+[[./media/screenshots/tweet_le_parc.png]]
+ #+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:50%">
+#+ATTR_HTML: :height 150%, :width 150%
+[[./media/screenshots/tweet_hacktoberfest.png]]
+ #+REVEAL_HTML: </div>
+
+
+* What do I do?
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :END:
-TODO.
+
+In my role as Computational Scientist...
+
+#+ATTR_HTML: :height 50%, :width 50%
+[[./media/clipart/terminal.png]]
+ 
+
+*** I advance open-source libraries...
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
+   :END:
+
+ 
+#+REVEAL_HTML: <div class="column" style="float:left; width:30%">
+#+ATTR_HTML: :height 80%, :width 80%
+[[./media/logos/IS_ENES3_logo.png]]
+ #+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:30%">
+#+ATTR_HTML: :height 50%, :width 50%
+[[./media/logos/ExCALIBUR_Colour.png]]
+ #+REVEAL_HTML: </div>
+
+...notably the Earth Science data analysis library /cf-python/ plus some of
+the libraries it depends on, through:
+ 
+- development and maintainenance;
+- performance optimisation;
+- user support and training.
+
+#+REVEAL_HTML: <div class="column" style="float:left; width:35%">
+#+ATTR_HTML: :height 100%, :width 100%
+[[./media/logos/python-logo-generic.svg]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:30%">
+#+ATTR_HTML: :height 70%, :width 70%
+[[./media/logos/dask_horizontal_no_pad.svg]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:35%">
+#+ATTR_HTML: :height 100%, :width 100%
+[[./media/logos/numpylogo.png]]
+#+REVEAL_HTML: </div>
 
 
-* What are my plans for the fellowship?
+*** 
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
+   :END:
+
+#+ATTR_HTML: :height 80%, :width 80%
+[[./media/screenshots/cfdm_joss_paper.png]]
+
+
+*** I support and promote community standards:
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
+   :END:
+
+#+REVEAL_HTML: <div style="font-size: 0.8em">
+- above all, the NetCDF Climate and Forecast Metadata Conventions
+  (*CF Conventions*), for example:
+  - indirectly through my work on cf-python;
+  - directly as a member of the official
+    CF Conventions /Information Management and Support Team/;
+- helping to progress a less-mature standard for aggregation of data abiding
+  by the CF Conventions: the *CFA Conventions*.
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:left; width:35%">
+#+ATTR_HTML: :height 50%, :width 50%
+[[./media/logos/netcdf-150x150.png]]
+ #+REVEAL_HTML: </div>
+ 
+#+REVEAL_HTML: <div class="column" style="float:right; width:65%">
+#+ATTR_HTML: :height 100%, :width 100%
+[[./media/logos/cf-conventions-logo-merged.png]]
+ #+REVEAL_HTML: </div>
+
+
+*** I deliver infrastructure to support documentation...
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
+   :REVEAL_SLIDE_FOOTER: &#8224; the latest-phase of the project to coordinate global climate model simulations
+   :END:
+
+#+ATTR_HTML: :height 30%, :width 30%
+[[./media/logos/es-doc-logo-merged.png]]
+
+...with my work on the ES-DOC project:
+
+#+REVEAL_HTML: <div style="font-size: 0.8em">
+- maintaining and furthering tools and services enabling
+  creation, analysis and dissemination of documentation covering all
+  aspects of the workflow for CMIP6^{\dagger};
+- support for the community of modelling groups and end-users.
+ #+REVEAL_HTML: </div>
+
+
+*** 
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
+   :END:
+
+#+ATTR_HTML: :height 80%, :width 80%
+[[./media/screenshots/my_github_page_snapshot_on_oct27.png]]
+
+   
+*** I champion RSE work and knowledge exchange:
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
+   :END:
+
+
+#+REVEAL_HTML: <div style="font-size: 0.7em">
+- _*presenting*_ at general and domain-specific research software events:
+  - e.g. /SORSE/ (/International Series of Online Research Software Events/)
+    in 2020 & /=M-x=  Research/ (RSE Emacs community) in 2021;
+  - e.g. the 2021 /CF Workshop/ & the /ESiWACE Summer School on
+    Effective HPC for Climate and Weather/ in 2020 and 2021;
+- on the /SeptembRSE/ _*organising*_ committee (workshops team);
+- Knowledge Exchange _*Co-ordinator*_ for the ExCALIBUR project;
+- _*mentor*_ for the SSI's /Research Software Camp: Beyond the Spreadsheet/.
+#+REVEAL_HTML: </div>
+
+
+#+REVEAL_HTML:<img src="./media/clipart/connections2.png" width="70%" height="70%" style="position: relative; top: -80px; opacity: 0.6; z-index:-1;">
+
+
+*** 
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
+   :END:
+
+#+ATTR_HTML: :height 80%, :width 80%
+[[./media/screenshots/sorse_youtube_screenshot.png]]
+
+
+* What is my proposal for the fellowship?
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
    :END:
