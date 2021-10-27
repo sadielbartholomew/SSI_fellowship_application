@@ -1,3 +1,7 @@
 :root {
   --r-heading-text-transform: none;
 }
+
+.slide-footer {
+  font-size: 0.6em;
+}

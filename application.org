@@ -157,21 +157,24 @@ In my role as Computational Scientist...
 
  
 #+REVEAL_HTML: <div class="column" style="float:left; width:30%">
-#+ATTR_HTML: :height 80%, :width 80%
+#+ATTR_HTML: :height 90%, :width 90%
 [[./media/logos/IS_ENES3_logo.png]]
  #+REVEAL_HTML: </div>
 
 #+REVEAL_HTML: <div class="column" style="float:right; width:30%">
-#+ATTR_HTML: :height 50%, :width 50%
+#+ATTR_HTML: :height 60%, :width 60%
 [[./media/logos/ExCALIBUR_Colour.png]]
  #+REVEAL_HTML: </div>
 
-...notably the Earth Science data analysis library /cf-python/ plus some of
+#+REVEAL_HTML: <div style="font-size: 0.8em">
+...notably the Earth Science data analysis library *cf-python* along with some of
 the libraries it depends on, through:
- 
+  #+REVEAL_HTML: </div>
+
 - development and maintainenance;
 - performance optimisation;
 - user support and training.
+
 
 #+REVEAL_HTML: <div class="column" style="float:left; width:35%">
 #+ATTR_HTML: :height 100%, :width 100%
@@ -208,8 +211,8 @@ the libraries it depends on, through:
   (*CF Conventions*), for example:
   - indirectly through my work on cf-python;
   - directly as a member of the official
-    CF Conventions /Information Management and Support Team/;
-- helping to progress a less-mature standard for aggregation of data abiding
+    CF Conventions _Information Management and Support Team_;
+- also helping develop a less-mature standard for /aggregation/ of data abiding
   by the CF Conventions: the *CFA Conventions*.
 #+REVEAL_HTML: </div>
 
@@ -230,15 +233,15 @@ the libraries it depends on, through:
    :REVEAL_SLIDE_FOOTER: &#8224; the latest-phase of the project to coordinate global climate model simulations
    :END:
 
+...with my work on the *ES-DOC* project:
+
 #+ATTR_HTML: :height 30%, :width 30%
 [[./media/logos/es-doc-logo-merged.png]]
-
-...with my work on the ES-DOC project:
 
 #+REVEAL_HTML: <div style="font-size: 0.8em">
 - maintaining and furthering tools and services enabling
   creation, analysis and dissemination of documentation covering all
-  aspects of the workflow for CMIP6^{\dagger};
+  aspects of the workflow for /CMIP6^{\dagger}/;
 - support for the community of modelling groups and end-users.
  #+REVEAL_HTML: </div>
 
@@ -316,12 +319,12 @@ presentation prepartion  in the "To be an RSE" videos).
    :reveal_background: linear-gradient(to bottom, #B9B9C6 15%, #ffffff 100%)
    :END:
 
-#+REVEAL_HTML: <div class="column" style="font-size: 0.8em">
+#+REVEAL_HTML: <div style="font-size: 0.8em">
 - GitHub, user *@sadielbartholomew*
 - ORCID, iD *0000-0002-6180-3603*
 - ResearchGate, handle *Sadie-Bartholomew*
-- personal website, [[https://sadielbartholomew.github.io/][sadielbartholomew.github.io/]]
-- repository with my CV, talks archive, dotfiles, etc.,
+- personal website, [[https://sadielbartholomew.github.io/][sadielbartholomew.github.io]]
+- repository with my CV, talks archive and dotfiles, etc.,
   [[https://github.com/sadielbartholomew/sadielbartholomew][github.com/sadielbartholomew/sadielbartholomew]]
 - SSI profile, [[https://www.software.ac.uk/sadie-bartholomew][www.software.ac.uk/sadie-bartholomew]]
 #+REVEAL_HTML: </div>
