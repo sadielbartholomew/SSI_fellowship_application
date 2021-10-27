@@ -21,8 +21,7 @@
    :reveal_background: linear-gradient(to bottom, #B9B9C6 15%, #ffffff 100%)
    :END:
 
-#+ATTR_HTML: :height 40%, :width 40%
-[[./media/photos/headshot.jpg]]
+#+REVEAL_HTML:<img src="./media/photos/headshot.jpg" width="40%" height="40%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
 
 
 *Application to the Software Sustainability Institute Fellowship Programme 2022*
@@ -116,10 +115,8 @@ for example:
  #+REVEAL_HTML: </div>
 
 
-#+REVEAL_HTML: <div class="column" style="float:right; width:40%">
-#+BEGIN_EXPORT html
-<img src="./media/videos/rotation_of_fractioned_circles_uniform.gif" /> 
-#+END_EXPORT
+#+REVEAL_HTML: <div class="column" style="float:right; width:40%;">
+#+REVEAL_HTML: <img src="./media/videos/rotation_of_fractioned_circles_uniform.gif" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" />
 #+REVEAL_HTML: </div>
 
 
@@ -129,13 +126,11 @@ for example:
    :END:
 
 #+REVEAL_HTML: <div class="column" style="float:left; width:50%">
-#+ATTR_HTML: :height 150%, :width 150%
-[[./media/screenshots/tweet_le_parc.png]]
+#+REVEAL_HTML:<img src="./media/screenshots/tweet_le_parc.png" width="150%" height="150%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
  #+REVEAL_HTML: </div>
 
 #+REVEAL_HTML: <div class="column" style="float:right; width:50%">
-#+ATTR_HTML: :height 150%, :width 150%
-[[./media/screenshots/tweet_hacktoberfest.png]]
+#+REVEAL_HTML:<img src="./media/screenshots/tweet_hacktoberfest.png" width="150%" height="150%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
  #+REVEAL_HTML: </div>
 
 
@@ -197,9 +192,8 @@ the libraries it depends on, through:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :END:
 
-#+ATTR_HTML: :height 80%, :width 80%
-[[./media/screenshots/cfdm_joss_paper.png]]
-
+#+REVEAL_HTML:<img src="./media/screenshots/cfdm_joss_paper.png" width="80%" height="80%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
+   
 
 *** I support and promote community standards:
    :PROPERTIES:
@@ -251,8 +245,7 @@ the libraries it depends on, through:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :END:
 
-#+ATTR_HTML: :height 80%, :width 80%
-[[./media/screenshots/my_github_page_snapshot_on_oct27.png]]
+#+REVEAL_HTML:<img src="./media/screenshots/my_github_page_snapshot_on_oct27.png" width="80%" height="80%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
 
    
 *** I champion RSE work and knowledge exchange:
@@ -281,8 +274,7 @@ the libraries it depends on, through:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :END:
 
-#+ATTR_HTML: :height 80%, :width 80%
-[[./media/screenshots/sorse_youtube_screenshot.png]]
+#+REVEAL_HTML:<img src="./media/screenshots/sorse_youtube_screenshot.png" width="80%" height="80%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
 
 
 * What is my proposal for the fellowship?
