@@ -99,41 +99,6 @@ based at the Department of Meteorology at _University of Reading_.
  #+REVEAL_HTML: </div>
 
 
-*** Furthermore
-   :PROPERTIES:
-   :reveal_background: linear-gradient(to bottom, #78A8E2 15%, #ffffff 100%)
-   :END:
-
-I enjoy _contributing to open-source software in a personal capacity_,
-for example:
-
-#+REVEAL_HTML: <div class="column" style="float:left; width:60%; font-size: 0.8em">
-- as a volunteer reviewer for the Journal of Open Source Software;
-- with annual completion of the Hacktoberfest initiative (2018+);
-- by developing and publicising personal coding projects such
-  as =creative-matplotlib=.
- #+REVEAL_HTML: </div>
-
-
-#+REVEAL_HTML: <div class="column" style="float:right; width:40%;">
-#+REVEAL_HTML: <img src="./media/videos/rotation_of_fractioned_circles_uniform.gif" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" />
-#+REVEAL_HTML: </div>
-
-
-*** 
-   :PROPERTIES:
-   :reveal_background: linear-gradient(to bottom, #78A8E2 15%, #ffffff 100%)
-   :END:
-
-#+REVEAL_HTML: <div class="column" style="float:left; width:50%">
-#+REVEAL_HTML:<img src="./media/screenshots/tweet_le_parc.png" width="150%" height="150%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
- #+REVEAL_HTML: </div>
-
-#+REVEAL_HTML: <div class="column" style="float:right; width:50%">
-#+REVEAL_HTML:<img src="./media/screenshots/tweet_hacktoberfest.png" width="150%" height="150%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
- #+REVEAL_HTML: </div>
-
-
 * What do I do?
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
@@ -166,7 +131,7 @@ In my role as Computational Scientist...
 the libraries it depends on, through:
   #+REVEAL_HTML: </div>
 
-- development and maintainenance;
+- development and maintenance;
 - performance optimisation;
 - user support and training.
 
@@ -233,10 +198,10 @@ the libraries it depends on, through:
 [[./media/logos/es-doc-logo-merged.png]]
 
 #+REVEAL_HTML: <div style="font-size: 0.8em">
-- maintaining and furthering tools and services enabling
-  creation, analysis and dissemination of documentation covering all
+- maintaining and furthering tools and services which enable
+  creation and dissemination of documentation covering all
   aspects of the workflow for /CMIP6^{\dagger}/;
-- support for the community of modelling groups and end-users.
+- supporting the community of modelling groups and end-users.
  #+REVEAL_HTML: </div>
 
 
@@ -262,11 +227,12 @@ the libraries it depends on, through:
     Effective HPC for Climate and Weather/ in 2020 and 2021;
 - on the /SeptembRSE/ _*organising*_ committee (workshops team);
 - Knowledge Exchange _*Co-ordinator*_ for the ExCALIBUR project;
-- _*mentor*_ for the SSI's /Research Software Camp: Beyond the Spreadsheet/.
+- _*mentor*_ for the SSI's /Research Software Camp: Beyond the Spreadsheet/;
+- volunteer _*reviewer*_ for the Journal of Open Source Software.
 #+REVEAL_HTML: </div>
 
 
-#+REVEAL_HTML:<img src="./media/clipart/connections2.png" width="70%" height="70%" style="position: relative; top: -80px; opacity: 0.6; z-index:-1;">
+#+REVEAL_HTML:<img src="./media/clipart/connections2.png" width="70%" height="70%" style="position: relative; top: -130px; opacity: 0.6; z-index:-1;">
 
 
 *** 
@@ -277,11 +243,26 @@ the libraries it depends on, through:
 #+REVEAL_HTML:<img src="./media/screenshots/sorse_youtube_screenshot.png" width="80%" height="80%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
 
 
-* What is my proposal for the fellowship?
+*** 
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #78A8E2 15%, #ffffff 100%)
+   :END:
+
+#+REVEAL_HTML: <div class="column" style="float:left; width:50%">
+#+REVEAL_HTML:<img src="./media/screenshots/tweet_hacktoberfest_laptop.png" width="150%" height="150%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
+ #+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:50%">
+#+REVEAL_HTML:<img src="./media/screenshots/tweet_septembrse.png" width="150%" height="150%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
+ #+REVEAL_HTML: </div>
+
+
+* What do I propose?
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
    :END:
-TODO.
+
+If selected for a fellowship, my plans are...
 
 
 * Thank you for your consideration
@@ -294,13 +275,13 @@ TODO.
 -----
 
 #+REVEAL_HTML: <div class="column" style="font-size: 0.6em">
-These slides were written in =org-mode= for =Emacs= and exported to
-=reveal.js= using the =org-reveal= tool.
+These slides were written in =org-mode= for =Emacs= and exported
+using the =org-reveal= tool to =HTML= code rendered in the browser with the
+=reveal.js= framework.
 
-The corresponding code and content is all contained in
-a private GitHub repository which I will make public and share if
-I am selected for a fellowship (I could even use it as part of a feature on
-presentation prepartion  in the "To be an RSE" videos).
+The corresponding code and content is fully contained in
+a private GitHub repository which I will make public and use as a store for
+tracking the fellowship should I be selected for one.
 #+REVEAL_HTML: </div>
 
 -----
@@ -312,13 +293,14 @@ presentation prepartion  in the "To be an RSE" videos).
    :END:
 
 #+REVEAL_HTML: <div style="font-size: 0.8em">
-- GitHub, user *@sadielbartholomew*
-- ORCID, iD *0000-0002-6180-3603*
-- ResearchGate, handle *Sadie-Bartholomew*
-- personal website, [[https://sadielbartholomew.github.io/][sadielbartholomew.github.io]]
-- repository with my CV, talks archive and dotfiles, etc.,
-  [[https://github.com/sadielbartholomew/sadielbartholomew][github.com/sadielbartholomew/sadielbartholomew]]
-- SSI profile, [[https://www.software.ac.uk/sadie-bartholomew][www.software.ac.uk/sadie-bartholomew]]
+- GitHub, user *@sadielbartholomew*;
+- ORCID, iD *0000-0002-6180-3603*;
+- ResearchGate, handle *Sadie-Bartholomew*;
+- personal website, [[https://sadielbartholomew.github.io/][sadielbartholomew.github.io]];
+- repository containing my CV, archive of talks, dotfiles, etc.,
+  [[https://github.com/sadielbartholomew/sadielbartholomew][github.com/sadielbartholomew/sadielbartholomew]];
+- SSI profile, [[https://www.software.ac.uk/sadie-bartholomew][www.software.ac.uk/sadie-bartholomew]];
+- Twitter, user *@sadie\under{}lb*.
 #+REVEAL_HTML: </div>
 
 # END OF PRESENTATION
