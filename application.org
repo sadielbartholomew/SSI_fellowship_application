@@ -264,6 +264,111 @@ the libraries it depends on, through:
 
 If selected for a fellowship, my plans are...
 
+#+REVEAL_HTML: <div style="position: relative; top: -150px; z-index:-1;">
+#+ATTR_HTML: :height 50%, :width 50%
+[[./media/clipart/light_bulb.png]]
+ #+REVEAL_HTML: </div>
+
+
+# SADIE, DONE UP TO HERE!
+** ...divided into two distinct strands:
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
+   :END:
+
+#+REVEAL_HTML: <br>
+
+#+REVEAL_HTML: <div class="column" style="float:left; width:49%; border-right: 2px solid #222;">
+1.
+#+ATTR_HTML: :height 100%, :width 100%
+[[./media/logos/cf-conventions-logo-merged.png]]
+\rArr hackathon and development of training materials
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:49%;">
+2. [@2]
+#+ATTR_HTML: :height 60%, :width 60%
+[[./media/logos/ExCALIBUR_Colour.png]]
+\\
+\rArr community-building for the /RSE Knowledge Integration/ activity
+#+REVEAL_HTML: </div>
+
+
+** 1. CF Conventions Hackathon & Training
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
+   :END:
+
+Aiming to ultimately benefit consumers and producers of _Earth Science_ data
+
+#+ATTR_HTML: :height 45%, :width 45%
+[[./media/clipart/globe_lats.png]]
+
+
+*** TODO.
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
+   :END:
+
+TODO.
+
+
+*** TODO.
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
+   :END:
+
+TODO.
+
+
+*** TODO.
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
+   :END:
+
+TODO.
+
+
+** 2. ExCALIBUR community building
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
+   :END:
+
+Aiming to ultimately benefit developers and users of _high-performance simulation
+software_
+
+#+REVEAL_HTML: <div style="font-size: 0.8em">
+As well as my own domain, this includes very different fields such as
+astrophysics, particle physics and fusion energy.
+#+REVEAL_HTML: </div>
+
+#+ATTR_HTML: :height 45%, :width 45%
+[[./media/clipart/binary_wave.png]]
+
+
+*** TODO.
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
+   :END:
+
+TODO.
+
+
+*** TODO.
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
+   :END:
+
+TODO.
+
+
+*** TODO.
+   :PROPERTIES:
+   :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
+   :END:
+
+TODO.
+
 
 * Thank you for your consideration
    :PROPERTIES:
