@@ -73,9 +73,11 @@ I completed an _Integrated Masters in Physics_ at _Durham University_. There:
 My first step onto the RSE career ladder was to join the
 _Met Office_ as a _Scientific Software Engineer_.
 
-I spent two years in that role contributing to open-source Python-based
+#+REVEAL_HTML: <div style="font-size: 0.8em">
+I spent two years in that role contributing to open-source Python
 infrastructure libraries used to configure and run models for both
 operational forecasting and research.
+ #+REVEAL_HTML: </div>
 
 
 *** My next, and present, software role
@@ -104,13 +106,13 @@ based at the Department of Meteorology at _University of Reading_.
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :END:
 
-In my role as Computational Scientist...
+In my role as a Computational Scientist...
 
 #+ATTR_HTML: :height 50%, :width 50%
 [[./media/clipart/terminal.png]]
  
 
-*** I advance open-source libraries...
+*** 1. I advance open-source libraries...
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :END:
@@ -160,7 +162,7 @@ the libraries it depends on, through:
 #+REVEAL_HTML:<img src="./media/screenshots/cfdm_joss_paper.png" width="80%" height="80%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
    
 
-*** I support and promote community standards:
+*** 2. I support and promote community standards:
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :END:
@@ -186,16 +188,13 @@ the libraries it depends on, through:
  #+REVEAL_HTML: </div>
 
 
-*** I deliver infrastructure to support documentation...
+*** 3. I deliver infrastructure to support documentation
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :REVEAL_SLIDE_FOOTER: &#8224; the latest-phase of the project to coordinate global climate model simulations
    :END:
 
-...with my work on the *ES-DOC* project:
-
-#+ATTR_HTML: :height 30%, :width 30%
-[[./media/logos/es-doc-logo-merged.png]]
+My work on the *ES-DOC* project involves:
 
 #+REVEAL_HTML: <div style="font-size: 0.8em">
 - maintaining and furthering tools and services which enable
@@ -203,6 +202,9 @@ the libraries it depends on, through:
   aspects of the workflow for /CMIP6^{\dagger}/;
 - supporting the community of modelling groups and end-users.
  #+REVEAL_HTML: </div>
+
+#+ATTR_HTML: :height 30%, :width 30%
+[[./media/logos/es-doc-logo-merged.png]]
 
 
 *** 
@@ -213,7 +215,7 @@ the libraries it depends on, through:
 #+REVEAL_HTML:<img src="./media/screenshots/my_github_page_snapshot_on_oct27.png" width="80%" height="80%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
 
    
-*** I champion RSE work and knowledge exchange:
+*** 4. I champion RSE work and knowledge exchange:
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :END:
@@ -223,7 +225,7 @@ the libraries it depends on, through:
 - _*presenting*_ at general and domain-specific research software events:
   - e.g. /SORSE/ (/International Series of Online Research Software Events/)
     in 2020 & /=M-x=  Research/ (RSE Emacs community) in 2021;
-  - e.g. the 2021 /CF Workshop/ & the /ESiWACE Summer School on
+  - e.g. the 2021 /CF Workshop/ and the /ESiWACE Summer School on
     Effective HPC for Climate and Weather/ in 2020 and 2021;
 - on the /SeptembRSE/ _*organising*_ committee (workshops team);
 - Knowledge Exchange _*Co-ordinator*_ for the ExCALIBUR project;
@@ -240,7 +242,7 @@ the libraries it depends on, through:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :END:
 
-#+REVEAL_HTML:<img src="./media/screenshots/sorse_youtube_screenshot.png" width="80%" height="80%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
+#+REVEAL_HTML:<img src="./media/screenshots/sorse_youtube_annotated.png" width="100%" height="100%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
 
 
 *** 
@@ -264,33 +266,44 @@ the libraries it depends on, through:
 
 If selected for a fellowship, my plans are...
 
-#+REVEAL_HTML: <div style="position: relative; top: -150px; z-index:-1;">
+#+REVEAL_HTML: <div style="position: relative; top: -100px; z-index:-1;">
 #+ATTR_HTML: :height 50%, :width 50%
 [[./media/clipart/light_bulb.png]]
- #+REVEAL_HTML: </div>
-
+#+REVEAL_HTML: </div>
 
 # SADIE, DONE UP TO HERE!
-** ...divided into two distinct strands:
+** ...divided into two components:
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
    :END:
 
 #+REVEAL_HTML: <br>
 
-#+REVEAL_HTML: <div class="column" style="float:left; width:49%; border-right: 2px solid #222;">
+#+REVEAL_HTML: <div class="column" style="float:left; width:49%;">
 1.
 #+ATTR_HTML: :height 100%, :width 100%
 [[./media/logos/cf-conventions-logo-merged.png]]
-\rArr hackathon and development of training materials
+\Leftarrow hackathon + development and piloting of training
 #+REVEAL_HTML: </div>
 
-#+REVEAL_HTML: <div class="column" style="float:right; width:49%;">
+#+REVEAL_HTML: <div class="column" style="float:right; width:49%; border-left: 2px solid #222;">
+#+REVEAL_HTML: <div style="display: inline-block;; width: 100%;">
 2. [@2]
-#+ATTR_HTML: :height 60%, :width 60%
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML: <div class="column" style="float:left; width:60%;">
+#+ATTR_HTML: :height 100%, :width 100%
 [[./media/logos/ExCALIBUR_Colour.png]]
-\\
-\rArr community-building for the /RSE Knowledge Integration/ activity
+
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:40%;">
+
+#+ATTR_HTML: :height 70%, :width 70%
+[[./media/logos/new_rse_banner-1_cropped.png]]
+
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML:<div style="clear:both"></div>
+\Leftrightarrow HPC community-building workshops
 #+REVEAL_HTML: </div>
 
 
@@ -305,31 +318,56 @@ Aiming to ultimately benefit consumers and producers of _Earth Science_ data
 [[./media/clipart/globe_lats.png]]
 
 
-*** TODO.
+*** The issues I want to address
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
    :END:
 
-TODO.
+#+REVEAL_HTML: <div style="font-size: 0.8em">
+Software sustainability _benefits_ of the CF Conventions:
+  [[./diagrams/cf_conv_benefits_cropped.svg]]
+_Updates and amendments_ are made by the community via:
+  [[./diagrams/cf_conv_process.svg]]
+#+REVEAL_HTML: </div>
+
+Improvements to the update process would mean *increased throughput*!
+But it is /volunteer managed/...
 
 
-*** TODO.
+*** 
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
    :END:
 
-TODO.
+#+REVEAL_HTML:<img src="./media/screenshots/cf_conv_gh.png" width="100%" height="100%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
 
 
-*** TODO.
+*** How I want to address those issues
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
    :END:
 
-TODO.
+#+REVEAL_HTML: <br>
+
+1. Co-developing and piloting _training_, to cover:
+  #+REVEAL_HTML: <div style="font-size: 0.8em">
+  - background to the CF Conventions and netCDF;
+  - *(effective) use of them and best practice*;
+  - a walkthrough on making a proposal for an update.
+  #+REVEAL_HTML: </div>
+2. Hosting a _hackathon_:
+  #+REVEAL_HTML: <div style="font-size: 0.8em">
+  - allowing us to *dedicate time and collaborate closely* on improving the
+    technical aspects pertaining to the update process for the CF Conventions.
+  #+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div style="position: relative; top: -600px; z-index:-1;">
+#+ATTR_HTML: :height 60%, :width 60%
+[[./media/clipart/postit.png]]
+ #+REVEAL_HTML: </div>
 
 
-** 2. ExCALIBUR community building
+** 2. HPC community-building workshops
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
    :END:
@@ -337,37 +375,95 @@ TODO.
 Aiming to ultimately benefit developers and users of _high-performance simulation
 software_
 
-#+REVEAL_HTML: <div style="font-size: 0.8em">
+#+REVEAL_HTML: <div style="font-size: 0.7em">
 As well as my own domain, this includes very different fields such as
 astrophysics, particle physics and fusion energy.
 #+REVEAL_HTML: </div>
 
 #+ATTR_HTML: :height 45%, :width 45%
-[[./media/clipart/binary_wave.png]]
+[[./media/clipart/binary_wave_added_colour.png]]
 
 
-*** TODO.
+*** The issues I want to address
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
    :END:
 
-TODO.
+#+REVEAL_HTML: <div style="font-size: 0.8em">
+1. Approaching HPC /Exascale era/ will require specialised skills:
+   - \hookleftarrow ExCALIBUR *RSE Knowledge Integration Landscape Review*
+     details this and provides recommendations;
+   - how can we prepare RSEs in, and for, HPC fields?
+2. It's hard to track simulation software progress in other fields;
+   - how can we derive and share domain-agnostic insight?
+
+(And, on a different note:)
+
+3. [@3] There's a fledgling RSE group that has spun up at my university
+   and we in NCAS-CMS want to help it to thrive...
+#+REVEAL_HTML: </div>
 
 
-*** TODO.
+#+REVEAL_HTML: <div class="column" style="float:left; width:30%;">
+#+ATTR_HTML: :height 100%, :width 100%
+[[./media/logos/ExCALIBUR_Colour.png]]
+
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:70%;">
+
+#+ATTR_HTML: :height 120%, :width 120%
+[[./media/logos/new_rse_banner-1.png]]
+
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML:<div style="clear:both"></div>
+
+
+*** How I want to address those issues
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
    :END:
 
-TODO.
+Hosting _two workshops_:
+
+#+REVEAL_HTML: <div style="font-size: 0.8em">
+1. Gather established RSEs for a *Congregation of Concerns*:
+  - aim to maximise number of fields represented;
+  - explore shared challenges, cross-cutting progress, etc.
+2. /Curate/ *HPC skills training* and pilot with the UoR RSE group:
+  - use of HPC resources, performant Python, data and IO;
+  - aim to gather, re-use and improve existing materials:
+    - /HPC Certification Forum/ as a potential foundation
+    - develop and utilise HPC Carpentry resources?
+#+REVEAL_HTML: </div>
 
 
-*** TODO.
+#+REVEAL_HTML: <div style="position: relative; top: -500px; z-index:-1;">
+#+ATTR_HTML: :height 60%, :width 60%
+[[./media/clipart/postit.png]]
+ #+REVEAL_HTML: </div>
+
+
+** Why the fellowship is pivotal
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
    :END:
 
-TODO.
+Both the /funding/ and /networking/ aspects are central:
+
+#+REVEAL_HTML: <div style="font-size: 0.8em">
+- remain flexible as to whether to go /virtual/, /in-person/ or /hybrid/ with
+  these events, but *aim to achieve the best outcomes* via:
+  - teleconferencing, chatroom and/or brainstorming apps;
+  - travel subsidy, basic catering, etc.;
+- *equally as valuable would be what I can learn from, and contribute to,
+  the fellowship community*.
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div style="position: relative; top: -150px; z-index:-1; opacity: 0.3;">
+#+ATTR_HTML: :height 70%, :width 70%
+[[./media/clipart/networking_2_add_colour.png]]
+ #+REVEAL_HTML: </div>
 
 
 * Thank you for your consideration
