@@ -112,46 +112,46 @@ In my role as a Computational Scientist...
 [[./media/clipart/terminal.png]]
  
 
-*** 1. I advance open-source libraries...
+*** 1. I advance open-source tools and infrastructure:
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
+   :REVEAL_SLIDE_FOOTER: &#8224; the latest-phase of the project to coordinate global climate model simulations
    :END:
 
- 
-#+REVEAL_HTML: <div class="column" style="float:left; width:30%">
-#+ATTR_HTML: :height 90%, :width 90%
-[[./media/logos/IS_ENES3_logo.png]]
- #+REVEAL_HTML: </div>
-
-#+REVEAL_HTML: <div class="column" style="float:right; width:30%">
-#+ATTR_HTML: :height 60%, :width 60%
-[[./media/logos/ExCALIBUR_Colour.png]]
- #+REVEAL_HTML: </div>
-
 #+REVEAL_HTML: <div style="font-size: 0.8em">
-...notably the Earth Science data analysis library *cf-python* along with some of
-the libraries it depends on, through:
+a) the _Earth Science data analysis library_ *cf-python* + dependencies;
+b) *ES-DOC* for _infrastructure supporting /CMIP6^{\dagger}/ documentation_.
   #+REVEAL_HTML: </div>
+
+These two lines of work involve a mix of tasks:
 
 - development and maintenance;
 - performance optimisation;
 - user support and training.
 
+#+REVEAL_HTML:<div style="clear:both"></div>
 
-#+REVEAL_HTML: <div class="column" style="float:left; width:35%">
+#+REVEAL_HTML: <div class="column" style="float:left; width:25%">
 #+ATTR_HTML: :height 100%, :width 100%
 [[./media/logos/python-logo-generic.svg]]
 #+REVEAL_HTML: </div>
 
 #+REVEAL_HTML: <div class="column" style="float:right; width:30%">
-#+ATTR_HTML: :height 70%, :width 70%
-[[./media/logos/dask_horizontal_no_pad.svg]]
+#+ATTR_HTML: :height 80%, :width 80%
+[[./media/logos/IS_ENES3_logo.png]]
+ #+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:left; width:20%">
+#+ATTR_HTML: :height 80%, :width 80%
+[[./media/logos/ExCALIBUR_Colour.png]]
 #+REVEAL_HTML: </div>
 
-#+REVEAL_HTML: <div class="column" style="float:right; width:35%">
+#+REVEAL_HTML: <div class="column" style="float:right; width:25%">
 #+ATTR_HTML: :height 100%, :width 100%
-[[./media/logos/numpylogo.png]]
+[[./media/logos/es-doc-logo-merged.png]]
 #+REVEAL_HTML: </div>
+
+#+REVEAL_HTML:<div style="clear:both"></div>
 
 
 *** 
@@ -188,25 +188,6 @@ the libraries it depends on, through:
  #+REVEAL_HTML: </div>
 
 
-*** 3. I deliver infrastructure to support documentation
-   :PROPERTIES:
-   :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
-   :REVEAL_SLIDE_FOOTER: &#8224; the latest-phase of the project to coordinate global climate model simulations
-   :END:
-
-My work on the *ES-DOC* project involves:
-
-#+REVEAL_HTML: <div style="font-size: 0.8em">
-- maintaining and furthering tools and services which enable
-  creation and dissemination of documentation covering all
-  aspects of the workflow for /CMIP6^{\dagger}/;
-- supporting the community of modelling groups and end-users.
- #+REVEAL_HTML: </div>
-
-#+ATTR_HTML: :height 30%, :width 30%
-[[./media/logos/es-doc-logo-merged.png]]
-
-
 *** 
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
@@ -215,7 +196,7 @@ My work on the *ES-DOC* project involves:
 #+REVEAL_HTML:<img src="./media/screenshots/my_github_page_snapshot_on_oct27.png" width="80%" height="80%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
 
    
-*** 4. I champion RSE work and knowledge exchange:
+*** 3. I champion RSE work and knowledge exchange:
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :END:
@@ -303,7 +284,7 @@ If selected for a fellowship, my plans are...
 
 #+REVEAL_HTML: </div>
 #+REVEAL_HTML:<div style="clear:both"></div>
-\Leftrightarrow HPC community-building workshops
+\Leftrightarrow HPC community-building and training workshops
 #+REVEAL_HTML: </div>
 
 
@@ -426,6 +407,8 @@ astrophysics, particle physics and fusion energy.
 
 Hosting _two workshops_:
 
+#+REVEAL_HTML: <br>
+
 #+REVEAL_HTML: <div style="font-size: 0.8em">
 1. Gather established RSEs for a *Congregation of Concerns*:
   - aim to maximise number of fields represented;
@@ -434,11 +417,11 @@ Hosting _two workshops_:
   - use of HPC resources, performant Python, data and IO;
   - aim to gather, re-use and improve existing materials:
     - /HPC Certification Forum/ as a potential foundation
-    - develop and utilise HPC Carpentry resources?
+    - develop and utilise /HPC Carpentry/ resources?
 #+REVEAL_HTML: </div>
 
 
-#+REVEAL_HTML: <div style="position: relative; top: -500px; z-index:-1;">
+#+REVEAL_HTML: <div style="position: relative; top: -550px; z-index:-1;">
 #+ATTR_HTML: :height 60%, :width 60%
 [[./media/clipart/postit.png]]
  #+REVEAL_HTML: </div>
