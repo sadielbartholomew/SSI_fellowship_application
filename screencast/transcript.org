@@ -1,0 +1,266 @@
+#+TITLE: Application to the SSI Fellowship Programme 2022, voiceover transcript
+#+AUTHOR: Sadie Bartholomew
+#+EMAIL: sadie.bartholomew@ncas.ac.uk
+
+* Grey (part I) slides
+
+** Slide 1
+
+Hi, my name is Sadie Bartholomew and I am delighted to present my application
+for the SSI Fellowship Programme 2022.
+
+
+* Blue slides
+
+** Slide 2
+
+Who am I professionally?
+
+Well if I had to summarise that in a sentence, intially,
+it would be as follows: that educated in physics, I've been working for
+four years as an effective Research Software Engineer in the
+field of climate and weather, under two different roles, and contributing
+widely to open-source software in the process.
+
+Let me expand on that...
+
+
+** Slide 3
+
+My formal education culminated in a physics degree that combined
+three years of undergraduate study with a masters year at Durham University.
+
+Notably, during this course I first learnt to program and in the lanuage
+that I still use mostly today, Python, and a computational masters project
+in particle physics phenomenology first sparked my interest in software
+for research, openness of research artefacts, and high-performance computing.
+
+
+** Slide 4
+
+These interests prompted me to join the Met Office as a graduate-level
+Scientific Software Engineer.
+
+I was in that role for two years, tasked largely with developing and
+supporting open-source Python infrastructure libraries used to configure
+and run models used in operational forecasting and research at the
+Met Office and other meterological organisations internationally.
+
+
+** Slide 5
+
+Then, at the start of 2020, I joined the
+Computational Modelling Services (CMS) group within the
+National Centre for Atmospheric Science (NCAS), based at, and as a member of,
+the Department of Meteorology at University of Reading,
+and I have been working as a Computational Scientist there ever since.
+
+
+* Red slides
+
+** Slide 6
+
+What do I do in my role?
+
+
+** Slide 7
+
+Firstly, I collaboratively advance open-source tools and infrastructure
+related to the IS-ENES3 and ExCALIBUR projects,
+notably an Earth Science
+data analysis library called cf-python, and towards 
+support for climate modelling documentation as part of the ES-DOC project.
+
+Both are varied lines of work, involving development and maintenance of
+software, in the former case performance optimisation, and support and
+training for end-users and modelling communities.
+
+
+** Slide 8
+
+My teams and I strive for high-quality and FAIR software, for example our
+library imlmenting the data model central to
+cf-python was peer-reviewed and published last year in the
+Journal of Open Source Software.
+
+
+** Slide 9
+
+Secondly, I support and promote community standards, in particular
+the NetCDF Climate and Forecast or CF Metadata Conventions.
+
+As well as supporting the CF Conventions indirectly
+through my work on cf-python, I promote them as
+a member of the official Information Management and Support Team.
+
+
+** Slide 10
+
+For all of these endeavors, I work with public
+GitHub repositories, so everything is open and transparent.
+
+
+** Slide 11
+
+Finally but pertinently, I champion
+research software engineering and related knowledge exchange.
+
+I've done this in numerous capacities, and I'd like to highlight
+my work in *presenting, organising, co-ordinating, mentoring and reviewing*.
+
+Namely, I have presented at numerous research software events, both
+domain-specific and domain-generic, with examples highlighted.
+
+I was on the committee organised this year's virtual RSE conference,
+September RSE, and I am one of a network co-ordinating Knowledge
+Exchange for the ExCALIBUR project.
+
+Moreover, I have recently been mentoring a young learner for
+the SSI's upcoming 'Research Software Camp: Beyond the Spreadsheet',
+and for a year or so I have been a reviewer for the
+Journal of Open Source Software.
+
+
+** Slide 12
+
+This is me presenting my software demonstration
+virtually for a Series of Online Research Software Events.
+last year, which proved to be popular.
+
+
+** Slide 13
+
+I enjoy sharing my enthusiasm for all things research software on Twitter
+for example.
+
+
+* Green slides
+
+** Slide 14
+
+So, what do I propose if selected for a fellowship? Well my plans are...
+
+
+** Slide 15
+
+...divided into two distinct components, namely:
+A first, aiming at promoting the CF Conventions via a hackathon
+and development of training and
+a second, focused on organising
+workshops relating to high-performance computing.
+
+
+** Slide 16
+
+My plans for the former, given the scope of the CF Conventions
+which standardise Earth Science metadata for
+a file format which is highly popular in the domain, netCDF,
+would be directed at benefiting both consumers and producers of such data.
+
+
+** Slide 17
+
+The software sustainbility benefits of these conventions are clear: if
+CF compliant, corresponding data becomes more machine-parsable and
+comprehensible to humans, and in turn software working with such data can be
+made simpler and more maintainable.
+
+But not everyone who uses such data is aware of
+the CF Conventions; it could be more widely promoted.
+
+Furthermore, the process by which the standard is continually developed
+is good in that it is community-led and open, but there are technical aspects
+which could be greatly improved, for better throughput to 
+augment the aforementioned benefits,
+for example many manual steps to be handled by the admin. team.
+
+However, we on the Information Management and Support Team
+are fitting in such efforts around our funded day jobs, so we can't
+devote much time to get these realised.
+
+
+** Slide 18
+
+This is especially sad because we have registered plenty of great
+ideas for infrastructure and workflow improvements on 
+the issue trackers of the CF Conventions GitHub organisation.
+
+
+** Slide 19
+
+I'd like to address the need to promote the conventions further by
+initiating the development of training
+which would predominantly cover effective use
+of, and best practice with, the CF Conventions.
+
+I'd like to tackle the other problem outlined, namely the
+desire to improve the technical workflow aspects by organising a hackathon for the
+CF Conventions Information Management and Support Team and any other
+interested participants, where we could dedeicate time and
+collaborate closely on getting our ideas implemented.
+
+
+** Slide 20
+
+Next, let me outline my plans for the HPC-related workshops.
+which should benefit developers and users of high-performance
+simulation software.
+
+
+** Slide 21
+
+The ExCALIBUR RSE Knowledge Integration Landscape Review highlighted that
+there are specialised skills required for the approaching HPC exascale
+era,  that is the era of thousand-fold increase over current computing capacity.
+How can we as a community perpare RSEs, both established and potential
+new talent, for such an era?
+
+Another issue is that there are many fields where progress is being made
+on the computing side, and it would be great to derive and share insights,
+but tracking progress across fields is difficult.
+
+Finally, and on a slightly different note, an RSE community of practice
+like group was launched at my unversity earlier this year, and my team
+and I would love to help it thrive by some means.
+
+
+** Slide 22
+
+I'd like to make some headway on such issues by hosting two workshops.
+
+The first would be targeted at researchers and RSEs who conider themselves
+established in their field, aiming to get representatives from as
+many simulation software research fields as possible.
+I'd call it a Congreation of Concerns, referencing the computing
+good practice 'separation of concerns', but reflecting the fact
+that if we step back from our codebases, and indeed our
+fields, there are likely shared challenges, cross-cutting progress that
+has been made, and further commonality that can be explored.
+
+The second would be training in some basic skills that the Landscape Review
+identified as being imporatnt, which
+I want to pilot that with the Reading RSE group.
+
+I anticipate this would be curated rather than created from scratch, 
+I've already identified the HPC Certification Forum as a potential foundation
+for competencies to teach, and the HPC Carpentry as a potential source of
+resources to foster and utilise.
+
+
+* Grey (part 2) slides
+
+** Slide 23
+
+Thank you.
+
+In line with my ethos of openness, I have created my slides using a
+personal favourite set of code tools, with all of the code and content
+contained in a GitHub repository which I will make public and use
+to track the fellowship, should I be successful.
+
+** Slide 24
+
+I'll close by sharing some information that may be useful
+if you would like to learn more about me and my work.
+
+# END OF TRANSCRIPT
