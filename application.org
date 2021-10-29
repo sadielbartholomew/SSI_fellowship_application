@@ -427,28 +427,6 @@ Hosting _two workshops_:
  #+REVEAL_HTML: </div>
 
 
-** Why the fellowship is pivotal
-   :PROPERTIES:
-   :reveal_background: linear-gradient(to bottom, #70C2BF 15%, #ffffff 100%)
-   :END:
-
-Both the /funding/ and /networking/ aspects are central:
-
-#+REVEAL_HTML: <div style="font-size: 0.8em">
-- remain flexible as to whether to go /virtual/, /in-person/ or /hybrid/ with
-  these events, but *aim to achieve the best outcomes* via:
-  - teleconferencing, chatroom and/or brainstorming apps;
-  - travel subsidy, basic catering, etc.;
-- *equally as valuable would be what I can learn from, and contribute to,
-  the fellowship community*.
-#+REVEAL_HTML: </div>
-
-#+REVEAL_HTML: <div style="position: relative; top: -150px; z-index:-1; opacity: 0.3;">
-#+ATTR_HTML: :height 70%, :width 70%
-[[./media/clipart/networking_2_add_colour.png]]
- #+REVEAL_HTML: </div>
-
-
 * Thank you for your consideration
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #B9B9C6 15%, #ffffff 100%)
