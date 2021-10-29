@@ -2,7 +2,6 @@
 #+REVEAL_EXTRA_CSS: ./css/application.css
 
 #+REVEAL_THEME: white
-# ./css/swiss.css
 #+REVEAL_TRANS: concave
 
 #+REVEAL_TITLE_SLIDE:
@@ -41,8 +40,8 @@ contributing widely to open-source software.
 #+REVEAL_HTML: <div style="position: relative; top: -190px; z-index:-1;">
 #+ATTR_HTML: :height 50%, :width 50%
 [[./media/clipart/sun_rain_clipart.png]]
- #+REVEAL_HTML: </div>
- 
+#+REVEAL_HTML: </div>
+
 
 *** Before my career
    :PROPERTIES:
@@ -59,7 +58,7 @@ I completed an _Integrated Masters in Physics_ at _Durham University_. There:
   today, Python;
 - a final-year project in computational particle physics using C++ activated
   my interest in software for research, openness of research artefacts and HPC.
- #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 
 *** My first software role
@@ -77,7 +76,7 @@ _Met Office_ as a _Scientific Software Engineer_.
 I spent two years in that role contributing to open-source Python
 infrastructure libraries used to configure and run models for both
 operational forecasting and research.
- #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 
 *** My next, and present, software role
@@ -93,12 +92,12 @@ based at the Department of Meteorology at _University of Reading_.
 #+REVEAL_HTML: <div class="column" style="float:left; width:60%">
 #+ATTR_HTML: :height 100%, :width 100%
 [[./media/logos/NCAS_national_centre_logo_transparent.png]]
- #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 #+REVEAL_HTML: <div class="column" style="float:right; width:40%">
 #+ATTR_HTML: :height 90%, :width 90%
 [[./media/logos/University_of_Reading_logo.svg]]
- #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 
 * What do I do?
@@ -121,7 +120,7 @@ In my role as a Computational Scientist...
 #+REVEAL_HTML: <div style="font-size: 0.8em">
 a) the _Earth Science data analysis library_ *cf-python* + dependencies;
 b) *ES-DOC* for _infrastructure supporting /CMIP6^{\dagger}/ documentation_.
-  #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 These two lines of work involve a mix of tasks:
 
@@ -139,7 +138,7 @@ These two lines of work involve a mix of tasks:
 #+REVEAL_HTML: <div class="column" style="float:right; width:30%">
 #+ATTR_HTML: :height 80%, :width 80%
 [[./media/logos/IS_ENES3_logo.png]]
- #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 #+REVEAL_HTML: <div class="column" style="float:left; width:20%">
 #+ATTR_HTML: :height 80%, :width 80%
@@ -160,7 +159,7 @@ These two lines of work involve a mix of tasks:
    :END:
 
 #+REVEAL_HTML:<img src="./media/screenshots/cfdm_joss_paper.png" width="80%" height="80%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
-   
+
 
 *** 2. I support and promote community standards:
    :PROPERTIES:
@@ -180,12 +179,12 @@ These two lines of work involve a mix of tasks:
 #+REVEAL_HTML: <div class="column" style="float:left; width:35%">
 #+ATTR_HTML: :height 50%, :width 50%
 [[./media/logos/netcdf-150x150.png]]
- #+REVEAL_HTML: </div>
- 
+#+REVEAL_HTML: </div>
+
 #+REVEAL_HTML: <div class="column" style="float:right; width:65%">
 #+ATTR_HTML: :height 100%, :width 100%
 [[./media/logos/cf-conventions-logo-merged.png]]
- #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 
 *** 
@@ -195,7 +194,7 @@ These two lines of work involve a mix of tasks:
 
 #+REVEAL_HTML:<img src="./media/screenshots/my_github_page_snapshot_on_oct27.png" width="80%" height="80%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
 
-   
+
 *** 3. I champion RSE work and knowledge exchange:
    :PROPERTIES:
    :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
@@ -233,11 +232,11 @@ These two lines of work involve a mix of tasks:
 
 #+REVEAL_HTML: <div class="column" style="float:left; width:50%">
 #+REVEAL_HTML:<img src="./media/screenshots/tweet_hacktoberfest_laptop.png" width="150%" height="150%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
- #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 #+REVEAL_HTML: <div class="column" style="float:right; width:50%">
 #+REVEAL_HTML:<img src="./media/screenshots/tweet_septembrse.png" width="150%" height="150%" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
- #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 
 * What do I propose?
@@ -345,7 +344,7 @@ But it is /volunteer managed/...
 #+REVEAL_HTML: <div style="position: relative; top: -600px; z-index:-1;">
 #+ATTR_HTML: :height 60%, :width 60%
 [[./media/clipart/postit.png]]
- #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 
 ** 2. HPC community-building workshops
@@ -424,7 +423,7 @@ Hosting _two workshops_:
 #+REVEAL_HTML: <div style="position: relative; top: -550px; z-index:-1;">
 #+ATTR_HTML: :height 60%, :width 60%
 [[./media/clipart/postit.png]]
- #+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
 
 
 * Thank you for your consideration
