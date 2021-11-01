@@ -227,7 +227,7 @@ These two lines of work involve a mix of tasks:
 
 *** 
    :PROPERTIES:
-   :reveal_background: linear-gradient(to bottom, #78A8E2 15%, #ffffff 100%)
+   :reveal_background: linear-gradient(to bottom, #E48181 15%, #ffffff 100%)
    :END:
 
 #+REVEAL_HTML: <div class="column" style="float:left; width:50%">
